@@ -1,0 +1,11 @@
+euro amd 430
+amd euro 0.96
+usd amd 374.5
+amd usd 0.002635
+rur amd 4.71
+amd rur 0.20
+euro usd 1.1572
+usd euro 0.8475
+usd aed 3.100000
+geo amd 145.000000
+aed amd 102.630000
